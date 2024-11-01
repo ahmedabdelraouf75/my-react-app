@@ -5,18 +5,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+       <h1> Welcome to my project </h1>
+	   <img src= "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/07/tanjiro-kamado-demon-slayer-infinity-castle-arc.jpg" />
+	   <h3> we are still working to hit our target , please come back again </h3>
       </header>
     </div>
   );
